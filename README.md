@@ -41,7 +41,7 @@ Características
 Ejemplos
 --------
 
-| **Geolocalización**   | **Bots**    |
-| :---------------------| :---------: |
-| [![](https://github.com/miguelriosr/WebMissingPeople/blob/master/assets/img/geo.png)](https://github.com/miguelriosr/WebMissingPeople/blob/master/assets/img/geo.png) | [![](https://github.com/miguelriosr/WebMissingPeople/blob/master/assets/img/boot.png)](https://github.com/miguelriosr/WebMissingPeople/blob/master/assets/img/boot.png) |
+| **Geolocalización**   | **Bots**    |**Prioridades**|
+| :---------------------| ----------: | :------------:|
+| [![](https://github.com/miguelriosr/WebMissingPeople/blob/master/assets/img/geo.png)](https://github.com/miguelriosr/WebMissingPeople/blob/master/assets/img/geo.png) | [![](https://github.com/miguelriosr/WebMissingPeople/blob/master/assets/img/boot.png)](https://github.com/miguelriosr/WebMissingPeople/blob/master/assets/img/boot.png) |[![](https://github.com/miguelriosr/WebMissingPeople/blob/master/assets/img/prio.png)](https://github.com/miguelriosr/WebMissingPeople/blob/master/assets/img/prio.png)|
 
