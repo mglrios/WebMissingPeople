@@ -10,7 +10,7 @@ Detalles:
 
 | Plataforma                    | Soporte                   | Min-Versión                     |
 | :---------------------------- | ------------------------: | :-----------------------------: |
-| Android                       | Sí                        |  Android 5.x..                  |
+| Android                       | Sí                        |  Android 5.X..                  |
 | IOS                           | No                        |  No                             |
 | WEB                           | Sí                        |  Versiones con soporte a HTML5  |
 |
