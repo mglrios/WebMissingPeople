@@ -4,7 +4,13 @@ Missing People App es una plataforma de búsqueda y administración de datos des
 
 Soporte
 -------
-MSA da soporte a la plataforma móvil Android y esta a su vez está integrada a su respectiva versión Web implementada bajo las tenologías Python-Django para el Backend y HTML, CSS y JS para el Frontend
+MSA da soporte a la plataforma móvil Android y esta a su vez está integrada a su respectiva versión Web implementada bajo las tenologías Python-Django para el Backend y HTML, CSS y JS para el Frontend.
+Detalles:
+| Plataforma                | Soporte                | Min-Versión                |
+| :------------------------ | ---------------------: | :------------------------: |
+| Android                   | Sí                     |  Android 5.x.x             |
+| IOS                       | No                     |  No                        |
+| Web                       | Sí                     |  Undefinited               |
 
 Instalación
 -----------
@@ -20,8 +26,4 @@ NASA Space Apps Challenger
 -------------------------
 NASA Space Apps Chalenger es un evento realizado a nivel mundial orientado al desarrollo de soluciones innovadoras a los diferentes retos que nacen con el transcurrir de los tiempos, y, fue el escenario donde se desarrolló y presentó la propuesta Missing People App
 
-| Item     | Value | Qty   |
-| :------- | ----: | :---: |
-| Computer | $1600 |  5    |
-| Phone    | $12   |  12   |
-| Pipe     | $1    |  234  |
+
