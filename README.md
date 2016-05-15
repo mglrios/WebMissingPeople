@@ -32,7 +32,7 @@ NASA Space Apps Chalenger es un evento realizado a nivel mundial orientado al de
 Características
 --------
 
-> - Resepción **Prioritariamente** de **Mensajes de texto** por medio de Línea de Auxilio [![](http://www.3wrnd.com/images/phone.png)](http://www.3wrnd.com/images/phone.png)
+> - Recepción **Prioritariamente** de **Mensajes de texto** por medio de Línea de Auxilio [![](http://www.3wrnd.com/images/phone.png)](http://www.3wrnd.com/images/phone.png)
 > - Envío de información con **Geolocalización**
 > - Consulta de información mediante **Bots** de Messenger(R)
 > - **Seguimiento** al proceso de búsqueda de los desaparecidos
@@ -42,7 +42,7 @@ Source
 ------
 > - Front-End: https://github.com/miguelriosr/WebMissingPeople
 > - Back-End: https://github.com/geekecuador/Alerta-BACKEND
-> - Android Source: 
+> - Android Source: https://github.com/francisrubio06/MissingPeople
 
 Ejemplos
 --------
