@@ -43,5 +43,5 @@ Ejemplos
 
 | **Geolocalización**   | **Bots**    |
 | :---------------------| :---------: |
-| [![](https://github.com/miguelriosr/WebMissingPeople/blob/master/assets/img/geo.png)] | [![](https://github.com/miguelriosr/WebMissingPeople/blob/master/assets/img/boot.png)] |
+| [![](https://github.com/miguelriosr/WebMissingPeople/blob/master/assets/img/geo.png)](https://github.com/miguelriosr/WebMissingPeople/blob/master/assets/img/geo.png) | [![](https://github.com/miguelriosr/WebMissingPeople/blob/master/assets/img/boot.png)](https://github.com/miguelriosr/WebMissingPeople/blob/master/assets/img/boot.png) |
 
