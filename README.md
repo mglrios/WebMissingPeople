@@ -9,7 +9,7 @@ MPApp da soporte a la plataforma móvil Android y esta a su vez está integrada 
 Detalles:
 
 | Plataforma                    | Soporte                   | Min-Versión                     |
-| :---------------------------- | ------------------------: | :-----------------------------: |
+| :---------------------------: | :-----------------------: | :-----------------------------: |
 | Android                       | Sí                        |  Android 5.X..                  |
 | IOS                           | No                        |  No                             |
 | WEB                           | Sí                        |  Versiones con soporte a HTML5  |
@@ -42,6 +42,6 @@ Ejemplos
 --------
 
 | **Geolocalización**   | **Bots**|**Prioridades**|
-| :---------------------| ------: | :------------:|
+| :-------------------: | :-----: | :------------:|
 | [![](https://github.com/miguelriosr/WebMissingPeople/blob/master/assets/img/geo.png)](https://github.com/miguelriosr/WebMissingPeople/blob/master/assets/img/geo.png) | [![](https://github.com/miguelriosr/WebMissingPeople/blob/master/assets/img/boot.png)](https://github.com/miguelriosr/WebMissingPeople/blob/master/assets/img/boot.png) |[![](https://github.com/miguelriosr/WebMissingPeople/blob/master/assets/img/prio.png)](https://github.com/miguelriosr/WebMissingPeople/blob/master/assets/img/prio.png)|
 
