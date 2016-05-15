@@ -32,6 +32,7 @@ NASA Space Apps Chalenger es un evento realizado a nivel mundial orientado al de
 Características
 --------
 
+> - Resepción **Prioritariamente** de **Mensajes de texto** por medio de Línea de Auxilio 
 > - Envío de información con **Geolocalización**
 > - Consulta de información mediante **Bots** de Messenger(R)
 > - **Seguimiento** al proceso de búsqueda de los desaparecidos
