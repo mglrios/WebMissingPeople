@@ -29,4 +29,7 @@ NASA Space Apps Challenger
 -------------------------
 NASA Space Apps Chalenger es un evento realizado a nivel mundial orientado al desarrollo de soluciones innovadoras a los diferentes retos que nacen con el transcurrir de los tiempos, y, fue el escenario donde se desarrolló y presentó la propuesta Missing People App
 
+Features
+--------
+:   Envío de información con GEOLOCALIZACIÓN
 
