@@ -37,4 +37,14 @@ Características
 > - **Seguimiento** al proceso de búsqueda de los desaparecidos
 > - **Data Minig** (Segmentación y procesamiento de información)
 
-(https://github.com/miguelriosr/WebMissingPeople/blob/master/assets/img/13187770_10206549293831891_1743598_n.png.jpeg)
+Ejemplos
+--------
+
+> - **Geolocalización**
+
+[![](https://github.com/miguelriosr/WebMissingPeople/blob/master/assets/img/13187770_10206549293831891_1743598_n.png.jpeg)]
+
+> - **Bots** de Messenger(R)
+
+[![](https://github.com/miguelriosr/WebMissingPeople/blob/master/assets/img/13225202_10206549293271877_1587854337_o.png)]
+
