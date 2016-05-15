@@ -42,7 +42,7 @@ Ejemplos
 
 > - **Geolocalización**
 
-[![](https://github.com/miguelriosr/WebMissingPeople/blob/master/assets/img/geo.png.jpeg)]
+[![](https://github.com/miguelriosr/WebMissingPeople/blob/master/assets/img/geo.png)]
 
 > - **Bots** de Messenger(R)
 
