@@ -18,7 +18,7 @@ Detalles:
 Instalación
 -----------
 La versión Android está disponible en la tienda de Google Apps (Play Store).
-Para acceder a la versión Web visite el web-site dominio.io
+Para acceder a la versión Web visite el web-site missingpeople.io
 
 Historia
 --------
