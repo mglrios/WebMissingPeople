@@ -6,11 +6,12 @@ Soporte
 -------
 MSA da soporte a la plataforma móvil Android y esta a su vez está integrada a su respectiva versión Web implementada bajo las tenologías Python-Django para el Backend y HTML, CSS y JS para el Frontend.
 Detalles:
-| Plataforma| Soporte | Min-Versión |
-| :-------| -----: | :------------: |
-| Android | Sí     |  Android 5.x.x |
-| IOS     | No     |  No            |
-| Web     | Sí     |  Undefinited   |
+| Item     | Value | Qty   |
+| :------- | ----: | :---: |
+| Computer | $1600 |  5    |
+| Phone    | $12   |  12   |
+| Pipe     | $1    |  234  |
+|
 
 Instalación
 -----------
