@@ -5,13 +5,14 @@ Missing People App es una plataforma de búsqueda y administración de datos des
 Soporte
 -------
 MSA da soporte a la plataforma móvil Android y esta a su vez está integrada a su respectiva versión Web implementada bajo las tenologías Python-Django para el Backend y HTML, CSS y JS para el Frontend.
+
 Detalles:
 
-| Item     | Value | Qty   |
-| :------- | ----: | :---: |
-| Computer | $1600 |  5    |
-| Phone    | $12   |  12   |
-| Pipe     | $1    |  234  |
+| Plataforma                    | Soporte                   | Min-Versión                     |
+| :---------------------------- | ------------------------: | :-----------------------------: |
+| Android                       | Sí                        |  Android 5.x..                  |
+| IOS                           | No                        |  No                             |
+| WEB                           | Sí                        |  Versiones con soporte a HTML5  |
 |
 
 Instalación
