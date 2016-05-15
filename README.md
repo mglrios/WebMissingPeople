@@ -31,5 +31,7 @@ NASA Space Apps Chalenger es un evento realizado a nivel mundial orientado al de
 
 Features
 --------
-: Envío de información con GEOLOCALIZACIÓN
+Envío de información
+: Verificación pre-subida de datos
+: Geolocalización
 
